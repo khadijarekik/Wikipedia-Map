@@ -1,2 +1,9 @@
 # Wikipedia-Map
-Map of related Wikipedia articles 
+
+
+Data Visualization of related Wikipedia articles
+
+
+ 
+
+
