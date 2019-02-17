@@ -18,7 +18,7 @@ sometimes we get some pretty interesting links !
 
 ## Explanation 
 ###### Polytechnique_Montréal -> Chalmers University of Technology
-Polytechnique Montreal and Chalmers University of Technology are both part of the CDIO Initiative which is an educational framework that for engineering fundamentals that many engineering schools adhere to.
+Polytechnique Montreal and Chalmers University of Technology are both part of the CDIO Initiative which is an educational framework for engineering fundamentals that many engineering schools adhere to.
 
 ###### Chalmers University of Technology -> Casimir effect
 Researchers at the Chalmers University of Technology made new discoveries in the field of Casimir effect in May 2011 
